@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="https://youtube.com">
+    <input type="text" placeholder="type" > 
+    <br><br>
+    <input type="submit" value="submit"><br>
+    <input type="checkbox" name="cbMale" id="cbMale"> <input type="radio" name="" id="">
+    <br>
+    <input type="color" name="" id="">
+    <br><br>
+  <input type="image" height="100" width="100px" src="/imag/375px-Le_Palais_Royal_(Phnom_Penh)_(6997773481).jpg" alt="">
+ <br>
+  <input type="date" name="" id=""><input type="month" name="" id="">
+  <br><br>
+ <input type="datetime-local" name="" id="">
+ <br><br>
+<input type="file" name="" id="">
+<br> <input type="range" name="" id="">
+<br><br>
+<select >
+    <option value="Coca">coca</option>
+    <option value="Sting">Sting</option>
+    <option value="">Red Bull  </option>
+</select>
+<br><br>
+<textarea ></textarea>
+
+</form>
+    
+
+</body>
+</html>
